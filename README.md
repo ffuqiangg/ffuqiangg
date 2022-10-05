@@ -3,6 +3,5 @@
 **I'm Alex, not coder. I just try to code someting for myself.**  
  if the repository is useful to you, Please ..
 
-🎯 **Contact**
-
-<a href="https://t.me/ffuqiangg"><img align="left" alt="Telegram" src="https://img.shields.io/badge/-ALEX VU-red?color=blue&logo=telegram&logoColor=black"/></a><a href="mailto:ffuqiangg@gmail.com"><img align="left" alt="Mail" src="https://img.shields.io/badge/-ffuqiangg@gmail.com-red?color=red&logo=gmail&logoColor=inactive"/></a>
+[![Telegram Badge](https://img.shields.io/badge/-@ffuqiangg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegramlogoColor=white&link=https://t.me/ffuqiangg)](https://t.me/ffuqiangg)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ffuqiangg@gmail.com)
