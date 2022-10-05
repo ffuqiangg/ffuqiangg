@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Alex, not coder. I just try to code someting for myself.**  
+**I'm ffuqiangg, not coder. I just try to code someting for myself.**  
 If the repository is useful to you, STAR thx.
 
 ### Find me
