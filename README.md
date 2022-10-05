@@ -4,8 +4,7 @@
  if the repository is useful to you, Please ..
 
 🎯 **Contact**
-- 📫 ffuqiangg@gmail.com
-- 🚀 [ALEX VU](https://t.me/ffuqiangg)
+<a href="https://t.me/ffuqiangg"><img align="left" alt="Telegram" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40ffuqiangg&labelColor=282c34"/></a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
