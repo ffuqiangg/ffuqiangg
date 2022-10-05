@@ -9,4 +9,6 @@ If the repository is useful to you, STAR thx.
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ffuqiangg@gmail.com)
 [![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/r/ffuqiangg)
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ffuqiangg&hide=html,&hide_border=true)
+### Top Language
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ffuqiangg&hide=html,&hide_border=false&hide_title=true)
