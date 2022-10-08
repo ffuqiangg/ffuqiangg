@@ -2,6 +2,15 @@
 
 **I'm ffuqiangg, not coder. I just try to code someting for myself.**  
 If the repository is useful to you, STAR thx.
+<p>
+  <h1 align="center">
+    <b>Hi there, I'm ffuqiangg 👋</b>
+  </h1>
+  <p align="center">
+    <samp>😉I'm not coder, I just try to code something for myself. if the repository is useful to you, STAR thx.</samp>
+  </p>
+</p>
+
 
 ### Find me
 
