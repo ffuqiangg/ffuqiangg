@@ -1,7 +1,3 @@
-### Hi there 👋
-
-**I'm ffuqiangg, not coder. I just try to code someting for myself.**  
-If the repository is useful to you, STAR thx.
 <p>
   <h1 align="center">
     <b>Hi there, I'm ffuqiangg 👋</b>
@@ -11,6 +7,16 @@ If the repository is useful to you, STAR thx.
   </p>
 </p>
 
+<p align="center">
+    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffuqiangg&hide=html,&hide_border=false&hide_title=true" />
+</p>
+
+
+
+### Hi there 👋
+
+**I'm ffuqiangg, not coder. I just try to code someting for myself.**  
+If the repository is useful to you, STAR thx.
 
 ### Find me
 
