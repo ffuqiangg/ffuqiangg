@@ -1,7 +1,6 @@
 ## Hi there 👋
 😉 I'm ffuqiangg, not ⌨coder. I just try to code someting for myself. If the repository is useful to you, STAR 🙏thx.
 
-##
 ![ffuqiangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffuqiangg&show_icons=true&card_width=370&line_height=27&hide_title=true)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ffuqiangg&hide=html,&hide_border=false&hide_title=true)
 
