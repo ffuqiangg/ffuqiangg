@@ -3,7 +3,7 @@
 
 <div align="left">
   <img height="200em" alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=ffuqiangg&show_icons=true&card_width=390&line_height=27&hide_title=false"/>
-  <img height="200em" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffuqiangg&hide_border=false&hide_title=false"/>
+  <img height="200em" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffuqiangg&hide_border=false&hide_title=true&card_width=350"/>
 </div>
 
 ##  
