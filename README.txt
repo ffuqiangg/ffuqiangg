@@ -14,9 +14,9 @@
 
   Thanks
   ----------------------------------
-  - https://github.com/unifreq
-  - https://github.com/ophub
-  - https://github.com/breakings
-  - https://github.com/P3TERX
+  * flippy: https://github.com/unifreq
+  * Smith: https://github.com/ophub
+  * Breakings: https://github.com/breakings
+  * P3TERX: https://github.com/P3TERX
 
   Find me -> https://t.me/ffuqiangg | ffuqiangg@gmail.com | https://hub.docker.com/u/ffuqiangg
