@@ -18,8 +18,5 @@
   - https://github.com/ophub
   - https://github.com/breakings
   - https://github.com/P3TERX
-  - https://kernel.org
-  - https://github.com/be5invis/Sarasa-Gothic
-  - https://www.jetbrains.com/lp/mono/
 
   Find me -> https://t.me/ffuqiangg | ffuqiangg@gmail.com | https://hub.docker.com/u/ffuqiangg
