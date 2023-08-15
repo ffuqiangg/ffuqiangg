@@ -3,7 +3,6 @@
   | |_||_ |  |  | |                 |
   | | ||_ |_ |_ |_|   I'm ffuqiangg |  
   '---------------------------------'
-  I'm not a coder. I just try to code someting for myself. If the repository is useful to you, STAR, thx.
 
   Repository
   ----------------------------------
