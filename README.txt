@@ -5,7 +5,8 @@
   '---------------------------------'
 
   Repository
-  ----------------------------------
+  ___________________________________
+
   https://github.com/ffuqiangg/build_openwrt ................ |Build Openwrt/Immortalwrt for Phicomm N1|
   https://github.com/ffuqiangg/amlogic-s9xxx-armbian ......... |Compile kernel for Amlogic s9xxx TV Box|
   https://github.com/ffuqiangg/openwrt_packit ..................... |Packit Phicomm N1 Openwrt firmware|
@@ -13,7 +14,8 @@
   https://github.com/ffuqiangg/JetBrains-Sarasa-Hybrid ................ |JetBrains + Sarasa Hybrid font|
 
   Thanks
-  ----------------------------------
+  ___________________________________
+
   * flippy: https://github.com/unifreq
   * Smith: https://github.com/ophub
   * Breakings: https://github.com/breakings
