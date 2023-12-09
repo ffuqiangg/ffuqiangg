@@ -20,4 +20,4 @@
   * P3TERX: https://github.com/P3TERX
 
   -----------------------------------
-  Find me -> https://t.me/ffuqiangg | ffuqiangg@gmail.com | https://hub.docker.com/u/ffuqiangg
+  Contact me -> https://t.me/ffuqiangg | ffuqiangg@gmail.com | https://hub.docker.com/u/ffuqiangg
