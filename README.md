@@ -11,7 +11,7 @@ I'm not a software developer, I just learned a little bash scripts and wrote cod
 - [Notes](https://github.com/ffuqiangg/notes) (My some learning notes)
 - [JetBrains Sarasa Hybird](https://github.com/ffuqiangg/JetBrains-Sarasa-Hybrid) (JetBrains + Sarasa Hybrid font)
 
-🔗 Acknowledgement
+🔗 Acknowledgement:
 - Compile kernel and packit firmware resources are from [flippy](https://github.com/unifreq)
 - Kernel and Armbian compile resource are from [Smith1998](https://github.com/ophub)
 - Some bash scripts resources are from [Breakings](https://github.com/breakings) and [YAOF](https://github.com/QiuSimons/YAOF)
