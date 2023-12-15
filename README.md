@@ -2,7 +2,7 @@
 
 I'm not a software developer, I just learned a little bash scripts and wrote code for my own use. If it works for you, ⭐ please.
 
-🔧 I use [vim](https://www.vim.org/), [neovim](https://neovim.io/), [vscode](https://code.visualstudio.com/) on `WSL` and `endeavouros`. You and find my vim and neovim config in [dotfiles](https://github.com/ffuqiangg/dotfiles) repostory.
+🔧 I use [vim](https://www.vim.org/), [neovim](https://neovim.io/), [vscode](https://code.visualstudio.com/) on `WSL` and `endeavouros`. You and find my vim and neovim config in [dotfiles](https://github.com/ffuqiangg/dotfiles).
 
 🔭 Some of my repository:
 - [Build OpenWrt](https://github.com/ffuqiangg/build_openwrt) (Build OpenWrt/ImmortalWrt/LEDE firmware for Phicomm N1)
