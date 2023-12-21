@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm not a software developer, I just learned a little bash scripts and wrote code for my own use. If it works for you, ⭐ please.
+I'm not a software developer, I just learned a little shell scripts and code for my own use. If it works for you, ⭐ please.
 
 🔧 I use [vim](https://www.vim.org/), [neovim](https://neovim.io/), [vscode](https://code.visualstudio.com/) on [`WSL`](https://learn.microsoft.com/en-us/windows/wsl/install) and [`endeavouros`](https://endeavouros.com/). You and find my vim and neovim config in [dotfiles](https://github.com/ffuqiangg/dotfiles).
 
