@@ -17,4 +17,4 @@ I'm not a software developer, I just learned a little shell scripts and code for
 - Some bash scripts resources are from [Breakings](https://github.com/breakings) and [YAOF](https://github.com/QiuSimons/YAOF)
 - OpenWrt compile workflow resource are from [P3TERX](https://github.com/P3TERX)
 
-📫 You can contact me directly on Telegram ([@ffuqiangg](https://t.me/ffuqiangg)) or Gmail ([@ffuqiangg](mailto:ffuiangg@gmail.com)), and docker image on [DockerHub](https://hub.docker.com/u/ffuqiangg)
+📫 You can contact me directly on [Telegram](https://t.me/ffuqiangg) or [Gmail](mailto:ffuiangg@gmail.com), and docker image on [DockerHub](https://hub.docker.com/u/ffuqiangg)
