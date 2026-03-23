@@ -2,7 +2,7 @@
 
 I'm not a software developer, I just learned a little shell scripts and code for my own use. If it works for you, ⭐ please.
 
-🔧 I use [vim](https://www.vim.org/), [vscode](https://code.visualstudio.com/) on [`WSL`](https://learn.microsoft.com/en-us/windows/wsl/install) and [`EndeavourOS`](https://endeavouros.com/). You and find my vim config in [dotfiles](https://github.com/ffuqiangg/dotfiles).
+🔧 I use [vim](https://www.vim.org/), [vscode](https://code.visualstudio.com/) on [`WSL`](https://learn.microsoft.com/en-us/windows/wsl/install) and [`CachyOS`](https://cachyos.org/). You and find my vim config in [dotfiles](https://github.com/ffuqiangg/dotfiles).
 
 🔭 Some of my repository:
 - [Build OpenWrt](https://github.com/ffuqiangg/build_openwrt) (Build OpenWrt / ImmortalWrt / LEDE / iStoreOS firmware for Phicomm N1)
