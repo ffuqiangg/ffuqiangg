@@ -5,11 +5,11 @@ I'm not a software developer, I just learned a little shell scripts and code for
 🔧 I use [vim](https://www.vim.org/), [vscode](https://code.visualstudio.com/) on [`WSL`](https://learn.microsoft.com/en-us/windows/wsl/install) and [`CachyOS`](https://cachyos.org/). You and find my vim config in [dotfiles](https://github.com/ffuqiangg/dotfiles).
 
 🔭 Some of my repository:
-- [Build OpenWrt](https://github.com/ffuqiangg/build_openwrt) (Build OpenWrt / ImmortalWrt / LEDE / iStoreOS firmware for Phicomm N1)
-- [amlogic s9xxx armbian](https://github.com/ffuqiangg/amlogic-s9xxx-armbian) (Compile kernel/armbian for Amlogic s9xxx TV Box)
-- [OpenWrt Packit](https://github.com/ffuqiangg/openwrt_packit) (Packit Phicomm N1 OpenWrt firmware)
-- [Notes](https://github.com/ffuqiangg/notes) (Some of my study notes)
-- [dockerfile](https://github.com/ffuqiangg/dockerfile) (Some docker image source)
+- [Build OpenWrt](https://github.com/ffuqiangg/build_openwrt) ( Build OpenWrt , ImmortalWrt , LEDE , iStoreOS firmware for Phicomm N1 )
+- [amlogic s9xxx armbian](https://github.com/ffuqiangg/amlogic-s9xxx-armbian) ( Compile kernel/armbian for Amlogic s9xxx TV Box )
+- [OpenWrt Packit](https://github.com/ffuqiangg/openwrt_packit) ( Packit Phicomm N1 OpenWrt firmware )
+- [Notes](https://github.com/ffuqiangg/notes) ( Some of my study notes )
+- [dockerfile](https://github.com/ffuqiangg/dockerfile) ( Some docker image source )
 
 🍺 Acknowledgement:
 - Compile kernel and packit firmware resources are from [flippy](https://github.com/unifreq)
